@@ -16,5 +16,6 @@ int main(){
     cout << "we'll approach each one of them in the next sessions :D" << endl;
     
     cout << "\nThanks & I hope you had a good time =] \nSee you in the variables session!";
+    
     return 0; 
 }
